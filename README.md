@@ -2,7 +2,7 @@
 
 # Hi there, I'm Tariq! 👋
 
-I am a Senior Information Technology student at **King Abdulaziz University**. As a passionate software engineer, I love building scalable web applications and am currently expanding my skills into game design.
+I am a Senior Information Technology student at **King Abdulaziz University**. A software engineer, I love building scalable web applications and am currently expanding my skills into game design.
 
 ### About Me
 * Class of **2025**
