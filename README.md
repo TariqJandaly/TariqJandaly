@@ -1,4 +1,4 @@
-# Hi, I'm Tariq Jandaly 👋
+# Hi, I'm [Tariq Jandaly](https://tariqjandaly.com) 👋
 
 **Full Stack Developer | 7+ Years of Programming Experience**
 
@@ -42,7 +42,7 @@ A full-stack platform that transformed course registration and planning for King
 ---
 
 ### **Iteratione** — Online Code Execution Platform
-*MVP Complete | Launching Q2 2026*
+*MVP Completed | [https://iteratione.com](https://iteratione.com)*
 
 A proprietary platform for writing, testing, and executing code online with real-time feedback and multi-language support.
 
@@ -65,8 +65,6 @@ A proprietary platform for writing, testing, and executing code online with real
 - **Backend:** Fastify (Node.js), PostgreSQL, Redis
 - **Infrastructure:** Docker, WebSockets, job queues
 - **Tools:** Git, system design, performance optimization
-
-**Status:** MVP complete, proprietary product launching soon
 
 ---
 
